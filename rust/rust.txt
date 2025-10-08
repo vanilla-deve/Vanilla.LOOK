@@ -1,0 +1,1 @@
+Inside this folder is the original project made in Rust. As such, I don't have enough experience in Rust to do a project of this magnitude, so it didn't turn out the best, it doesn't even run on a different device or outside my workspace.
