@@ -1,5 +1,5 @@
 ![Vanilla STAR's brand banner](Banner.png)
-Vanilla STAR (formerly Vanilla LOOK) is advanced system resource and process management/monitoring software, focused on process detail and overall user-friendly functionality.
+Vanilla STAR (formerly Vanilla LOOK) is an advanced system resource and process management/monitoring software, focused on process detail and overall user-friendly functionality.
 
 ## Features
 * Ease of use
